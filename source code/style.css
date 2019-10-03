@@ -20,6 +20,7 @@ body{
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 2%;
+    background-image: linear-gradient( 104.9deg,  rgba(255,95,162,1) 2.3%, rgba(254,201,154,1) 92.7% );
 }
 
 header{
